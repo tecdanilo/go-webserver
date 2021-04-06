@@ -1,5 +1,5 @@
 .background-site {
-    background-image: url('/static/assets/background.jpg');
+    background-image: url('background.jpg');
     background-color: black; /* background-clip: content-box; */
     background-size: auto;
 
